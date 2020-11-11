@@ -1,2 +1,4 @@
- 
- *.exe
+# its working
+*.exe
+
+# The main thing is that you have to put those comment after a one line esc
